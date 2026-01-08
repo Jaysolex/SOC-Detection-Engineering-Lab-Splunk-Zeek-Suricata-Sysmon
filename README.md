@@ -50,6 +50,7 @@ This project is intentionally structured to reflect **real-world SOC operations*
 - **Network Sensor:** Ubuntu Server (Zeek + Suricata)  
 - **SIEM:** Splunk Enterprise  
 
+
 ### Telemetry Flow
 
 Kali / Windows Activity
@@ -59,9 +60,7 @@ Zeek / Suricata / Sysmon
 Splunk Indexers
 ↓
 Detection Logic & Correlation
-
-
-📎 A detailed architecture diagram is included in the `/architecture/` directory.
+![SOC Detection Engineering Architecture](architecture/soc_architecture_diagram.png)
 
 ---
 
