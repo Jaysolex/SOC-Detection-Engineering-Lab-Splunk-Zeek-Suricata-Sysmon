@@ -121,9 +121,12 @@ Detection Logic & Correlation
 
 ### 2️⃣ PowerShell Defense Evasion
 
-**Attack Simulation**
+#### Attack Simulation
+
 ```powershell
+
 powershell.exe -nop -w hidden -c "Get-Process | Out-File C:\Users\Public\ps_test.txt"
+
 ```
 
 Why This Matters
