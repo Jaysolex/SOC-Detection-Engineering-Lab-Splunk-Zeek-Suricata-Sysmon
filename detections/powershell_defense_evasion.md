@@ -123,9 +123,3 @@ This detection reliably surfaces:
 
 ---
 
-## Status
-
-✅ Detection validated  
-✅ Mapped to MITRE ATT&CK  
-✅ SOC-ready  
-✅ Resume- and interview-ready
