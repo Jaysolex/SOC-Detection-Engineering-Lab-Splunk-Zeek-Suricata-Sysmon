@@ -71,7 +71,7 @@ Detection Logic & Correlation
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 ### Network Telemetry
 - **Zeek**
@@ -201,7 +201,7 @@ SOC-Detection-Engineering-Lab/
 │   └── attack_execution/
 └── notes/
 ```
-🧠 Key Takeaways
+Key Takeaways
 
 Detection engineering prioritizes signal quality over alert volume
 
