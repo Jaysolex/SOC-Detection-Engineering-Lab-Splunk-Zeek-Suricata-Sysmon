@@ -147,3 +147,17 @@ Network metadata alone is sufficient for high-quality detections
 Correlation across Zeek and Suricata increases confidence
 
 Detecting reconnaissance early reduces downstream risk
+
+
+
+## Detection Evidence
+
+Screenshots demonstrating this detection are available in:
+
+screenshots/network_recon/
+
+These include:
+- Zeek connection logs showing high fan-out scanning
+- Suricata flow visibility during reconnaissance
+- Cross-sensor correlation validating attacker behavior
+
