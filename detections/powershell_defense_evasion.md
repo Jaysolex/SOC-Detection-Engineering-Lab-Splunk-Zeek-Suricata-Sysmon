@@ -7,6 +7,8 @@ The goal is to detect **stealthy PowerShell execution** that attempts to bypass 
 
 This detection leverages **endpoint telemetry** and is designed to be **high-confidence**, low-noise, and SOC-ready.
 
+**MITRE ATT&CK Context:** This detection aligns with **T1059.001 (PowerShell)** under the **Defense Evasion** tactic.
+
 ---
 
 ## Adversary Behavior
