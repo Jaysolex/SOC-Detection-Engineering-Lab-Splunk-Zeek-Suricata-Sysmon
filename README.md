@@ -1,3 +1,8 @@
+![Release](https://img.shields.io/github/v/release/Jaysolex/soc-elk-threat-hunting-lab)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![Focus](https://img.shields.io/badge/focus-SOC%20Threat%20Hunting-blue)
+
+
 # 🛡️ SOC Detection Engineering Lab
 
 **SOC-Detection-Engineering-Lab**
